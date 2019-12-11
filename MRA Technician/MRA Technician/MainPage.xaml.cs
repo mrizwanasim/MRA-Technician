@@ -16,7 +16,6 @@ namespace MRA_Technician
         public MainPage()
         {
             InitializeComponent();
-            //Checking GitHub
         }
     }
 }
